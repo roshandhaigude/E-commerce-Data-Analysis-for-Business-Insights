@@ -21,6 +21,10 @@ Python: The project is implemented using Python for data cleaning, analysis, and
 Pandas: Pandas is used for data manipulation and aggregation.
 Scikit-Learn: Scikit-Learn is utilized for K-means clustering.
 Matplotlib and Seaborn: These libraries are employed for data visualization.
+Data Source
+
+The dataset used for this project can be accessed here. It provides comprehensive e-commerce transaction data, which serves as the foundation for the analysis.
+
 Conclusion
 
 This project underscores the power of data-driven decision-making in the e-commerce sector. By gaining insights into customer behavior and sales trends, businesses can optimize their strategies, enhance customer retention, and ultimately boost revenue.
