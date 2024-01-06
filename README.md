@@ -23,7 +23,7 @@ Scikit-Learn: Scikit-Learn is utilized for K-means clustering.
 Matplotlib and Seaborn: These libraries are employed for data visualization.
 Data Source
 
-The dataset used for this project can be accessed here. It provides comprehensive e-commerce transaction data, which serves as the foundation for the analysis.
+The dataset used for this project can be accessed here https://www.kaggle.com/datasets/vijayuv/onlineretail. It provides comprehensive e-commerce transaction data, which serves as the foundation for the analysis.
 
 Conclusion
 
